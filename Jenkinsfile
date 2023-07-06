@@ -8,7 +8,7 @@ stage('Clone a repo')
 {
     steps{
 
-        git branch: 'main', url: 'https://github.com/Sonal0409/CEP-1-Ansible-Jenkins-Abhay.git'
+        git branch: 'main', url: 'https://github.com/meabhay1622/CEP-1-Ansible-Jenkins-Abhay.git'
  }
 
 }
